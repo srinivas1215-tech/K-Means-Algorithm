@@ -1,4 +1,4 @@
-# 📊 K-Means Clustering from Scratch
+# 📊 K-Means Clustering Algorithm
 
 ## 📖 Description
 This project is a **custom implementation of the K-Means Clustering Algorithm in Python**.  
